@@ -60,7 +60,7 @@ if (isset($_GET['apex'])) {
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
 <meta charset="utf-8" />
-<title><?php echo $BRANDS ?> Login Halaman Situs - Journal STT Intheos Surakarta</title>
+<title><?php echo $BRANDS ?> Login Halaman Situs - SMA Negeri 1 Bandar Sribhawono</title>
 <meta name="description" content="<?php echo $BRANDS ?>  Era globalisasi dengan segala implikasinya menjadi salah satu pemicu cepatnya perubahan yang terjadi pada berbagai aspek kehidupan masyarakat, termasuk dalam penyediaan tenaga kerja trampil pada dunia kerja. Dalam hal ini dunia pendidikan." />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
 <meta name="aplus-auto-exp" content="[{&quot;filter&quot;:&quot;exp-tracking=suggest-official-store&quot;,&quot;logkey&quot;:&quot;/lzdse.result.os_impr&quot;,&quot;props&quot;:[&quot;href&quot;],&quot;tag&quot;:&quot;a&quot;}]" />
